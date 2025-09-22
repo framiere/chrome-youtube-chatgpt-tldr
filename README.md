@@ -1,5 +1,13 @@
 # YouTube to ChatGPT Chrome Extension
 
+
+Please use this instead!
+https://chromewebstore.google.com/detail/chatgpt-summarize/cbgecfllfhmmnknmamkejadjmnmpfjmp (edited) 
+
+
+
+# Archived
+
 This Chrome extension extracts transcripts from YouTube videos and sends them to ChatGPT with a custom prompt.
 
 ## Features
